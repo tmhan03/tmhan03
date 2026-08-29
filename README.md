@@ -32,7 +32,7 @@
 
 ## 📫 How to reach me
 - **Email:** [tmhan03@gmail.com](mailto:이메일주소@gmail.com)
-- **Blog:** [블로그 링크가 있다면 추가](#)## Hi there 👋
+
 
 <!--
 **tmhan03/tmhan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
